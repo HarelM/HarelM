@@ -1,10 +1,10 @@
 ## Hi there 👋
 
 My name is Harel Mazor,
-If you are reading this it means you would like to know more about me, my past experience and what I'm currently working on.
+If you are reading this it might mean you would like to know more about me, my past experience and what I'm currently working on.
 That's great!
 
-I ❤️ open source, and I try to contribute back to every open source library I sue.
+I ❤️ open source, and I try to contribute back to every open source library I use.
 Either by opening a PRs to fix things, improve stuff, add a feature or at least report issues I find when I'm using these great pieces of software.
 
 I try to keep [my Linked In profile](https://www.linkedin.com/in/harel-mazor-1298b139/) up-to-date, so I enocouraghe you to take a look there.
